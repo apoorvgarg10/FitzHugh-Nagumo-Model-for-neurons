@@ -1,4 +1,3 @@
 # FitzHugh-Nagumo-Model-for-neurons
-The impulses in neuron were vodelledby FitzHugh and Nagumo independently, as a Parabolic non-linear partial differential equation. This equation
-is solved using MATLAB.
+The impulses in neuron were modelled by FitzHugh and Nagumo independently, as a Parabolic non-linear partial differential equation. This equation is solved and the solution is plotted using MATLAB when an initial sinusoidal impulse is given at t=0.
 The algorithm used is BTCS(Backwardin Time Central in Space).
